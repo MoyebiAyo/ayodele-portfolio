@@ -1,6 +1,6 @@
 # Ayodele - Developer Portfolio
 
-A clean, modern, and responsive developer portfolio website built with Next.js 14, TypeScript, and Tailwind CSS.
+A clean, modern, and responsive developer portfolio website built with Next.js 14, TypeScript, and Tailwind CSS. Connected to GitHub for seamless version control and auto-deployment.
 
 ![Portfolio Preview](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
