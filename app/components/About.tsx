@@ -1,11 +1,12 @@
 "use client";
 
+import React from "react";
 import Image from "next/image";
 import { MapPin, Briefcase, Code } from "lucide-react";
 import { content } from "@/app/data/content";
 
 export default function About() {
-  const iconMap: Record<string, any> = {
+  const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
     MapPin: MapPin,
     Briefcase: Briefcase,
     Code: Code,

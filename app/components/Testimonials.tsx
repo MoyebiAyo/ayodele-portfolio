@@ -41,7 +41,7 @@ export default function Testimonials() {
 
               {/* Testimonial Content */}
               <p className="text-foreground/80 leading-relaxed italic">
-                "{testimonial.content}"
+                &ldquo;{testimonial.content}&rdquo;
               </p>
             </div>
           ))}

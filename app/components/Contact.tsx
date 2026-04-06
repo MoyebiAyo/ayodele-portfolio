@@ -138,10 +138,10 @@ export default function Contact() {
           <div className="space-y-8">
             <div>
               <h3 className="text-2xl font-heading font-bold mb-4">
-                Let's work together
+                Let&apos;s work together
               </h3>
               <p className="text-foreground/70 leading-relaxed">
-                I'm always interested in hearing about new projects and opportunities.
+                I&apos;m always interested in hearing about new projects and opportunities.
                 Whether you have a question or just want to say hi, feel free to reach out!
               </p>
             </div>
