@@ -35,5 +35,12 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-.vercel
+# Exported build output
+/dist/
+/public/_next/
+/public/*.html
+/public/*.txt
+/public/projects/**/*.html
+/public/projects/**/*.txt
+
 .env*.local
